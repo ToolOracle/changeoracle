@@ -1,0 +1,5 @@
+name: ChangeOracle
+description: DORA Art. 8 Change Management — 10 tools
+endpoint: https://tooloracle.io/change/mcp/
+transport: streamable-http
+license: MIT
